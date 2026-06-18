@@ -3,3 +3,5 @@ white
 black
 black
 pink
+pink
+RED
