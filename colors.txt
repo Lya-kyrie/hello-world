@@ -1,3 +1,5 @@
 green
 white
 black
+black
+pink
